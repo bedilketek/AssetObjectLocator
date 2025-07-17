@@ -5,7 +5,7 @@ This project is licensed under the terms of the MIT license.
 
 Contact : Email: bedilketek@gmail.com
 
-Download older versions of AssetobjectLocator here: https://drive.google.com/drive/folders/1fetSkn16okRShuUmECw3PBKPwX10Ldmf?usp=sharing
+Download older and newer versions of AssetobjectLocator here: https://drive.google.com/drive/folders/1fetSkn16okRShuUmECw3PBKPwX10Ldmf?usp=sharing
 > [!WARNING]
 >Warning! current version of AssetObjectLocator doesn't implement Addressables yet! 
 >Soon, AssetObjectLocator will implement Addressables to prevent unnecessary memory allocations.
