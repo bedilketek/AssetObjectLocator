@@ -5,6 +5,8 @@ This project is licensed under the terms of the MIT license.
 
 Contact : Email: bedilketek@gmail.com
 
+Download older versions of AssetobjectLocator here: https://drive.google.com/drive/folders/1fetSkn16okRShuUmECw3PBKPwX10Ldmf?usp=sharing
+
 Plugin's docs:
 
 English Version (Coming Soon) :
