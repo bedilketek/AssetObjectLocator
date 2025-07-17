@@ -7,6 +7,9 @@ Contact : Email: bedilketek@gmail.com
 
 Download older versions of AssetobjectLocator here: https://drive.google.com/drive/folders/1fetSkn16okRShuUmECw3PBKPwX10Ldmf?usp=sharing
 
+Warning! current version of AssetObjectLocator doesn't implement Addressables yet! 
+Soon, AssetObjectLocator will implement Addressables to prevent unnecessary memory allocations.
+
 Plugin's docs:
 
 English Version (Coming Soon) :
