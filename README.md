@@ -3,6 +3,8 @@ Locate Unity's object inside asset during runtime
 
 This project is licensed under the terms of the MIT license.
 
+Contact : Email: bedilketek@gmail.com
+
 Plugin's docs:
 
 English Version (Coming Soon) :
